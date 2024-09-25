@@ -1,4 +1,3 @@
-Aqui está a formatação que você pode usar para o seu projeto "Concessionaria_Js":
 
 ---
 
